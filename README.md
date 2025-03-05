@@ -2,6 +2,7 @@
 # Space Invaders Game
 
 A simple Space Invaders–style arcade game implemented in Python using the Pygame library.
+<img width="715" alt="Screenshot 2025-03-05 at 21 12 48" src="https://github.com/user-attachments/assets/ac1eb42c-ebac-4e6d-93d8-88925d2a0684" />
 
 ## Features
 
